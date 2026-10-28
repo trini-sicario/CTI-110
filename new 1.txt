@@ -1,0 +1,2 @@
+I am a first year Python porgramming student. I need a simple python program that calls a free weather API. I need help finding a free API that returns the weather in fayetteville North carolina, USA. Provide me a summary of how the PAI works.
+All of the data that is returned from the API should be dispalyed to the user. Make it simple terminL-Based program and explain it step by step 
